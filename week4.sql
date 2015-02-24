@@ -1,0 +1,1 @@
+﻿select t1.employeeid as "Employee ID", t1.firstname as "Emp Firstname", t1.lastname as "Emp LastName" from employee t1, employee t2 where t2.reportingto<=t1.employeeid

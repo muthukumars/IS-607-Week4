@@ -1,0 +1,1 @@
+I have written self join sql. employees are reporting to employee in the same employee table. based on reporting structure, we can pull out the organization structure
